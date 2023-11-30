@@ -1,6 +1,6 @@
 # Phase6_CSE360
 
-There are 6 prototypes included above this README file. Each prototype was created by a different member of group Th14 in course CSE360. This github repository is for the 6th phase of our project. 
+There are 6 prototypes included above this README file. Each prototype was created by a different member of group Th14 in course CSE360.
 
 Proto1: Iskander K. 
 
