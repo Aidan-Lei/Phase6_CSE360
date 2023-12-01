@@ -12,6 +12,8 @@ import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 
+//PROTOTYPE BY ILIA SOROKIN
+
 public class EstimationScales extends Application {
 
     private ComboBox<String> estimationScaleComboBox;
